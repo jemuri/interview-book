@@ -1,0 +1,10 @@
+.dockerignore
+.idea/
+.vscode/
+.DS_Store
+main
+.gitignore
+vendor/
+logs/
+entry
+!/.gitignore
